@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schmooit
+- 👋 Hi, I’m @schmoo
 - 👀 I’m interested in nerd stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
